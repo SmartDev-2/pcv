@@ -1,0 +1,6 @@
+set fitur,acc_mean,acc_std,f1_macro_mean,f1_macro_std
+Warna HSV (6),0.4855,0.0412,0.4889,0.0433
+GLCM (16),0.4856,0.0429,0.4336,0.0365
+Warna + GLCM (22),0.5639,0.0401,0.5493,0.0401
+Warna + GLCM + Bentuk (26),0.5594,0.0931,0.5455,0.0818
+Bentuk saja (4),0.4465,0.0707,0.4058,0.0819

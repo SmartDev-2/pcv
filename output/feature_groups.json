@@ -1,0 +1,34 @@
+{
+  "warna": [
+    "H_mean",
+    "H_std",
+    "S_mean",
+    "S_std",
+    "V_mean",
+    "V_std"
+  ],
+  "glcm": [
+    "ASM_0",
+    "kontras_0",
+    "IDM_0",
+    "korelasi_0",
+    "ASM_45",
+    "kontras_45",
+    "IDM_45",
+    "korelasi_45",
+    "ASM_90",
+    "kontras_90",
+    "IDM_90",
+    "korelasi_90",
+    "ASM_135",
+    "kontras_135",
+    "IDM_135",
+    "korelasi_135"
+  ],
+  "bentuk": [
+    "luas",
+    "keliling",
+    "faktor_bentuk",
+    "circularity"
+  ]
+}

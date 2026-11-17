@@ -1,0 +1,241 @@
+path_recon,path_mask,label_name,obj_ratio,label_id
+output/03_rekonstruksi/bercak_daun/IMG_20240217_151314.png,output/02_mask/bercak_daun/IMG_20240217_151314.png,bercak_daun,0.3292388916015625,0
+output/03_rekonstruksi/bercak_daun/IMG_20240217_151320.png,output/02_mask/bercak_daun/IMG_20240217_151320.png,bercak_daun,0.2864875793457031,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_154006_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_154006_bercak_daun_01.png,bercak_daun,0.3172035217285156,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_154150_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_154150_bercak_daun_01.png,bercak_daun,0.2558479309082031,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_154349_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_154349_bercak_daun_01.png,bercak_daun,0.31940460205078125,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_154400_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_154400_bercak_daun_01.png,bercak_daun,0.1715240478515625,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_154406_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_154406_bercak_daun_01.png,bercak_daun,0.29248046875,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_154424_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_154424_bercak_daun_01.png,bercak_daun,0.203338623046875,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_154428_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_154428_bercak_daun_01.png,bercak_daun,0.22994613647460938,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_154455_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_154455_bercak_daun_01.png,bercak_daun,0.344482421875,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_154555_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_154555_bercak_daun_01.png,bercak_daun,0.20777511596679688,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_154657_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_154657_bercak_daun_01.png,bercak_daun,0.20039749145507812,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_154717_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_154717_bercak_daun_01.png,bercak_daun,0.22010040283203125,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_154816_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_154816_bercak_daun_01.png,bercak_daun,0.15309906005859375,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_160008_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_160008_bercak_daun_01.png,bercak_daun,0.4592857360839844,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_160148_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_160148_bercak_daun_01.png,bercak_daun,0.4118537902832031,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_160206_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_160206_bercak_daun_01.png,bercak_daun,0.36468505859375,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_160633_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_160633_bercak_daun_01.png,bercak_daun,0.283782958984375,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_160633_bercak_daun_02.png,output/02_mask/bercak_daun/IMG_20261108_160633_bercak_daun_02.png,bercak_daun,0.4110260009765625,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_161630_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_161630_bercak_daun_01.png,bercak_daun,0.45758819580078125,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_161643_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_161643_bercak_daun_01.png,bercak_daun,0.4842262268066406,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_162329_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_162329_bercak_daun_01.png,bercak_daun,0.610565185546875,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_162333_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_162333_bercak_daun_01.png,bercak_daun,0.31862640380859375,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_162333_bercak_daun_02.png,output/02_mask/bercak_daun/IMG_20261108_162333_bercak_daun_02.png,bercak_daun,0.6347885131835938,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_162345_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_162345_bercak_daun_01.png,bercak_daun,0.19399261474609375,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_162345_bercak_daun_02.png,output/02_mask/bercak_daun/IMG_20261108_162345_bercak_daun_02.png,bercak_daun,0.17662429809570312,0
+output/03_rekonstruksi/bercak_daun/IMG_20261108_162707_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261108_162707_bercak_daun_01.png,bercak_daun,0.5323982238769531,0
+output/03_rekonstruksi/bercak_daun/IMG_20261114_070534_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261114_070534_bercak_daun_01.png,bercak_daun,0.21793746948242188,0
+output/03_rekonstruksi/bercak_daun/IMG_20261114_070553_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261114_070553_bercak_daun_01.png,bercak_daun,0.2554931640625,0
+output/03_rekonstruksi/bercak_daun/IMG_20261114_070925_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261114_070925_bercak_daun_01.png,bercak_daun,0.22235488891601562,0
+output/03_rekonstruksi/bercak_daun/IMG_20261114_070943_bercak_daun_01.png,output/02_mask/bercak_daun/IMG_20261114_070943_bercak_daun_01.png,bercak_daun,0.3418617248535156,0
+output/03_rekonstruksi/bercak_daun/IMG_8999.png,output/02_mask/bercak_daun/IMG_8999.png,bercak_daun,0.3046722412109375,0
+output/03_rekonstruksi/bercak_daun/IMG_9004.png,output/02_mask/bercak_daun/IMG_9004.png,bercak_daun,0.3794441223144531,0
+output/03_rekonstruksi/bercak_daun/IMG_9049.png,output/02_mask/bercak_daun/IMG_9049.png,bercak_daun,0.5077629089355469,0
+output/03_rekonstruksi/bercak_daun/IMG_9063.png,output/02_mask/bercak_daun/IMG_9063.png,bercak_daun,0.5277481079101562,0
+output/03_rekonstruksi/bercak_daun/IMG_9065.png,output/02_mask/bercak_daun/IMG_9065.png,bercak_daun,0.6117019653320312,0
+output/03_rekonstruksi/bercak_daun/IMG_9066.png,output/02_mask/bercak_daun/IMG_9066.png,bercak_daun,0.5344314575195312,0
+output/03_rekonstruksi/bercak_daun/IMG_9068.png,output/02_mask/bercak_daun/IMG_9068.png,bercak_daun,0.6145286560058594,0
+output/03_rekonstruksi/bercak_daun/IMG_9078.png,output/02_mask/bercak_daun/IMG_9078.png,bercak_daun,0.37456512451171875,0
+output/03_rekonstruksi/bercak_daun/IMG_9079.png,output/02_mask/bercak_daun/IMG_9079.png,bercak_daun,0.3728370666503906,0
+output/03_rekonstruksi/bercak_daun/IMG_9080.png,output/02_mask/bercak_daun/IMG_9080.png,bercak_daun,0.3387718200683594,0
+output/03_rekonstruksi/bercak_daun/IMG_9081.png,output/02_mask/bercak_daun/IMG_9081.png,bercak_daun,0.32402801513671875,0
+output/03_rekonstruksi/bercak_daun/IMG_9100.png,output/02_mask/bercak_daun/IMG_9100.png,bercak_daun,0.4720878601074219,0
+output/03_rekonstruksi/bercak_daun/IMG_9104.png,output/02_mask/bercak_daun/IMG_9104.png,bercak_daun,0.5852851867675781,0
+output/03_rekonstruksi/bercak_daun/IMG_9105.png,output/02_mask/bercak_daun/IMG_9105.png,bercak_daun,0.524322509765625,0
+output/03_rekonstruksi/bercak_daun/IMG_9353.png,output/02_mask/bercak_daun/IMG_9353.png,bercak_daun,0.3307647705078125,0
+output/03_rekonstruksi/bercak_daun/IMG_9386.png,output/02_mask/bercak_daun/IMG_9386.png,bercak_daun,0.2700538635253906,0
+output/03_rekonstruksi/bercak_daun/IMG_9448.png,output/02_mask/bercak_daun/IMG_9448.png,bercak_daun,0.3183937072753906,0
+output/03_rekonstruksi/bercak_daun/WhatsApp Image 2026-11-08 at 11.07.35 (1)_bercak_daun_01.png,output/02_mask/bercak_daun/WhatsApp Image 2026-11-08 at 11.07.35 (1)_bercak_daun_01.png,bercak_daun,0.16032028198242188,0
+output/03_rekonstruksi/bercak_daun/WhatsApp Image 2026-11-08 at 11.07.35 (2)_bercak_daun_01.png,output/02_mask/bercak_daun/WhatsApp Image 2026-11-08 at 11.07.35 (2)_bercak_daun_01.png,bercak_daun,0.20405960083007812,0
+output/03_rekonstruksi/sehat/Healthy Leaf00151.png,output/02_mask/sehat/Healthy Leaf00151.png,sehat,0.9823837280273438,1
+output/03_rekonstruksi/sehat/Healthy Leaf00173.png,output/02_mask/sehat/Healthy Leaf00173.png,sehat,0.7073783874511719,1
+output/03_rekonstruksi/sehat/Healthy Leaf00205.png,output/02_mask/sehat/Healthy Leaf00205.png,sehat,0.7471542358398438,1
+output/03_rekonstruksi/sehat/Healthy Leaf00243.png,output/02_mask/sehat/Healthy Leaf00243.png,sehat,0.9233856201171875,1
+output/03_rekonstruksi/sehat/Healthy Leaf00253.png,output/02_mask/sehat/Healthy Leaf00253.png,sehat,0.9941635131835938,1
+output/03_rekonstruksi/sehat/Healthy Leaf00265.png,output/02_mask/sehat/Healthy Leaf00265.png,sehat,0.6800155639648438,1
+output/03_rekonstruksi/sehat/Healthy Leaf00277.png,output/02_mask/sehat/Healthy Leaf00277.png,sehat,0.6114311218261719,1
+output/03_rekonstruksi/sehat/IMG_20261108_154041_sehat_01.png,output/02_mask/sehat/IMG_20261108_154041_sehat_01.png,sehat,0.31162261962890625,1
+output/03_rekonstruksi/sehat/IMG_20261108_154050_sehat_01.png,output/02_mask/sehat/IMG_20261108_154050_sehat_01.png,sehat,0.19556045532226562,1
+output/03_rekonstruksi/sehat/IMG_20261108_154101_sehat_01.png,output/02_mask/sehat/IMG_20261108_154101_sehat_01.png,sehat,0.2597808837890625,1
+output/03_rekonstruksi/sehat/IMG_20261108_154515_sehat_01.png,output/02_mask/sehat/IMG_20261108_154515_sehat_01.png,sehat,0.305206298828125,1
+output/03_rekonstruksi/sehat/IMG_20261108_154527_sehat_01.png,output/02_mask/sehat/IMG_20261108_154527_sehat_01.png,sehat,0.19864654541015625,1
+output/03_rekonstruksi/sehat/IMG_20261108_154535_sehat_01.png,output/02_mask/sehat/IMG_20261108_154535_sehat_01.png,sehat,0.27451324462890625,1
+output/03_rekonstruksi/sehat/IMG_20261108_154545_sehat_01.png,output/02_mask/sehat/IMG_20261108_154545_sehat_01.png,sehat,0.3227119445800781,1
+output/03_rekonstruksi/sehat/IMG_20261108_155707_sehat_01.png,output/02_mask/sehat/IMG_20261108_155707_sehat_01.png,sehat,0.62054443359375,1
+output/03_rekonstruksi/sehat/IMG_20261108_160136_sehat_01.png,output/02_mask/sehat/IMG_20261108_160136_sehat_01.png,sehat,0.3741340637207031,1
+output/03_rekonstruksi/sehat/IMG_20261108_160613_sehat_01.png,output/02_mask/sehat/IMG_20261108_160613_sehat_01.png,sehat,0.6218910217285156,1
+output/03_rekonstruksi/sehat/IMG_20261108_162339_sehat_01.png,output/02_mask/sehat/IMG_20261108_162339_sehat_01.png,sehat,0.3103141784667969,1
+output/03_rekonstruksi/sehat/IMG_20261114_065945_sehat_01.png,output/02_mask/sehat/IMG_20261114_065945_sehat_01.png,sehat,0.22938156127929688,1
+output/03_rekonstruksi/sehat/IMG_20261114_070020_sehat_01.png,output/02_mask/sehat/IMG_20261114_070020_sehat_01.png,sehat,0.2136688232421875,1
+output/03_rekonstruksi/sehat/IMG_20261114_070024_sehat_01.png,output/02_mask/sehat/IMG_20261114_070024_sehat_01.png,sehat,0.24728012084960938,1
+output/03_rekonstruksi/sehat/IMG_20261114_070128_sehat_01.png,output/02_mask/sehat/IMG_20261114_070128_sehat_01.png,sehat,0.29613494873046875,1
+output/03_rekonstruksi/sehat/IMG_20261114_070224_sehat_01.png,output/02_mask/sehat/IMG_20261114_070224_sehat_01.png,sehat,0.4324531555175781,1
+output/03_rekonstruksi/sehat/IMG_20261114_070257_sehat_01.png,output/02_mask/sehat/IMG_20261114_070257_sehat_01.png,sehat,0.22725677490234375,1
+output/03_rekonstruksi/sehat/IMG_20261114_070353_sehat_01.png,output/02_mask/sehat/IMG_20261114_070353_sehat_01.png,sehat,0.2604408264160156,1
+output/03_rekonstruksi/sehat/IMG_20261114_070417_sehat_01.png,output/02_mask/sehat/IMG_20261114_070417_sehat_01.png,sehat,0.3716316223144531,1
+output/03_rekonstruksi/sehat/IMG_20261114_070441_sehat_01.png,output/02_mask/sehat/IMG_20261114_070441_sehat_01.png,sehat,0.2853050231933594,1
+output/03_rekonstruksi/sehat/IMG_20261114_070529_sehat_01.png,output/02_mask/sehat/IMG_20261114_070529_sehat_01.png,sehat,0.2086181640625,1
+output/03_rekonstruksi/sehat/IMG_20261114_070620_sehat_01.png,output/02_mask/sehat/IMG_20261114_070620_sehat_01.png,sehat,0.24169158935546875,1
+output/03_rekonstruksi/sehat/IMG_20261114_070710_sehat_01.png,output/02_mask/sehat/IMG_20261114_070710_sehat_01.png,sehat,0.2557182312011719,1
+output/03_rekonstruksi/sehat/IMG_20261114_070742_sehat_01.png,output/02_mask/sehat/IMG_20261114_070742_sehat_01.png,sehat,0.31769561767578125,1
+output/03_rekonstruksi/sehat/IMG_20261114_070800_sehat_01.png,output/02_mask/sehat/IMG_20261114_070800_sehat_01.png,sehat,0.24103927612304688,1
+output/03_rekonstruksi/sehat/IMG_20261114_071417_sehat_01.png,output/02_mask/sehat/IMG_20261114_071417_sehat_01.png,sehat,0.356170654296875,1
+output/03_rekonstruksi/sehat/IMG_20261114_071422_sehat_01.png,output/02_mask/sehat/IMG_20261114_071422_sehat_01.png,sehat,0.2823677062988281,1
+output/03_rekonstruksi/sehat/IMG_20261114_071426_sehat_01.png,output/02_mask/sehat/IMG_20261114_071426_sehat_01.png,sehat,0.2720603942871094,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.21 (1)_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.21 (1)_sehat_01.png,sehat,0.2715263366699219,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.34 (1)_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.34 (1)_sehat_01.png,sehat,0.37264251708984375,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.34_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.34_sehat_01.png,sehat,0.2746543884277344,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.36 (1)_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.36 (1)_sehat_01.png,sehat,0.17934417724609375,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.36 (2)_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.36 (2)_sehat_01.png,sehat,0.29150390625,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.37 (2)_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.37 (2)_sehat_01.png,sehat,0.1863861083984375,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.37 (3)_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.37 (3)_sehat_01.png,sehat,0.2176361083984375,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.37_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.37_sehat_01.png,sehat,0.17195510864257812,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.38 (1)_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.38 (1)_sehat_01.png,sehat,0.2758750915527344,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.38 (2)_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.38 (2)_sehat_01.png,sehat,0.3410835266113281,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.38_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.38_sehat_01.png,sehat,0.2060394287109375,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.39 (1)_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.39 (1)_sehat_01.png,sehat,0.3622322082519531,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.40 (1)_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.40 (1)_sehat_01.png,sehat,0.30683135986328125,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.40_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.40_sehat_01.png,sehat,0.2616920471191406,1
+output/03_rekonstruksi/sehat/WhatsApp Image 2026-11-08 at 11.07.41 (2)_sehat_01.png,output/02_mask/sehat/WhatsApp Image 2026-11-08 at 11.07.41 (2)_sehat_01.png,sehat,0.2703399658203125,1
+output/03_rekonstruksi/ulat/62f0d11dd0550.png,output/02_mask/ulat/62f0d11dd0550.png,ulat,0.478851318359375,2
+output/03_rekonstruksi/ulat/caterpillar-feed-on-green-chili-260nw-2654603525.png,output/02_mask/ulat/caterpillar-feed-on-green-chili-260nw-2654603525.png,ulat,0.5248031616210938,2
+output/03_rekonstruksi/ulat/caterpillar-feed-on-green-chili-260nw-2654603529.png,output/02_mask/ulat/caterpillar-feed-on-green-chili-260nw-2654603529.png,ulat,0.6094398498535156,2
+output/03_rekonstruksi/ulat/images (2).png,output/02_mask/ulat/images (2).png,ulat,0.11406326293945312,2
+output/03_rekonstruksi/ulat/images (3).png,output/02_mask/ulat/images (3).png,ulat,0.642303466796875,2
+output/03_rekonstruksi/ulat/IMG20230721172205.png,output/02_mask/ulat/IMG20230721172205.png,ulat,0.4710235595703125,2
+output/03_rekonstruksi/ulat/IMG_20261108_155933_ulat_01.png,output/02_mask/ulat/IMG_20261108_155933_ulat_01.png,ulat,0.3953132629394531,2
+output/03_rekonstruksi/ulat/IMG_20261108_160246_ulat_01.png,output/02_mask/ulat/IMG_20261108_160246_ulat_01.png,ulat,0.7037544250488281,2
+output/03_rekonstruksi/ulat/IMG_20261108_160436_ulat_01.png,output/02_mask/ulat/IMG_20261108_160436_ulat_01.png,ulat,0.2313995361328125,2
+output/03_rekonstruksi/ulat/IMG_20261108_160436_ulat_02.png,output/02_mask/ulat/IMG_20261108_160436_ulat_02.png,ulat,0.364990234375,2
+output/03_rekonstruksi/ulat/IMG_20261108_162402_ulat_01.png,output/02_mask/ulat/IMG_20261108_162402_ulat_01.png,ulat,0.4447288513183594,2
+output/03_rekonstruksi/ulat/IMG_20261108_162402_ulat_02.png,output/02_mask/ulat/IMG_20261108_162402_ulat_02.png,ulat,0.22407150268554688,2
+output/03_rekonstruksi/ulat/IMG_20261108_162402_ulat_03.png,output/02_mask/ulat/IMG_20261108_162402_ulat_03.png,ulat,0.14486312866210938,2
+output/03_rekonstruksi/ulat/IMG_20261108_162409_ulat_01.png,output/02_mask/ulat/IMG_20261108_162409_ulat_01.png,ulat,0.4978981018066406,2
+output/03_rekonstruksi/ulat/IMG_20261108_162416_ulat_01.png,output/02_mask/ulat/IMG_20261108_162416_ulat_01.png,ulat,0.3422279357910156,2
+output/03_rekonstruksi/ulat/IMG_20261108_162422_ulat_01.png,output/02_mask/ulat/IMG_20261108_162422_ulat_01.png,ulat,0.5432472229003906,2
+output/03_rekonstruksi/ulat/IMG_20261108_162422_ulat_02.png,output/02_mask/ulat/IMG_20261108_162422_ulat_02.png,ulat,0.23397064208984375,2
+output/03_rekonstruksi/ulat/IMG_20261108_162422_ulat_03.png,output/02_mask/ulat/IMG_20261108_162422_ulat_03.png,ulat,0.2561531066894531,2
+output/03_rekonstruksi/ulat/IMG_20261108_162456_ulat_01.png,output/02_mask/ulat/IMG_20261108_162456_ulat_01.png,ulat,0.6152915954589844,2
+output/03_rekonstruksi/ulat/IMG_20261108_162520_ulat_01.png,output/02_mask/ulat/IMG_20261108_162520_ulat_01.png,ulat,0.5030288696289062,2
+output/03_rekonstruksi/ulat/IMG_20261108_162659_ulat_01.png,output/02_mask/ulat/IMG_20261108_162659_ulat_01.png,ulat,0.46161651611328125,2
+output/03_rekonstruksi/ulat/IMG_20261108_162707_ulat_01.png,output/02_mask/ulat/IMG_20261108_162707_ulat_01.png,ulat,0.5171051025390625,2
+output/03_rekonstruksi/ulat/IMG_20261108_162713_ulat_01.png,output/02_mask/ulat/IMG_20261108_162713_ulat_01.png,ulat,0.21373367309570312,2
+output/03_rekonstruksi/ulat/IMG_20261108_162713_ulat_02.png,output/02_mask/ulat/IMG_20261108_162713_ulat_02.png,ulat,0.20290756225585938,2
+output/03_rekonstruksi/ulat/IMG_20261108_162722_ulat_01.png,output/02_mask/ulat/IMG_20261108_162722_ulat_01.png,ulat,0.3236236572265625,2
+output/03_rekonstruksi/ulat/IMG_20261108_162722_ulat_02.png,output/02_mask/ulat/IMG_20261108_162722_ulat_02.png,ulat,0.21492767333984375,2
+output/03_rekonstruksi/ulat/IMG_20261108_162729_ulat_01.png,output/02_mask/ulat/IMG_20261108_162729_ulat_01.png,ulat,0.4952583312988281,2
+output/03_rekonstruksi/ulat/IMG_20261108_162739_ulat_01.png,output/02_mask/ulat/IMG_20261108_162739_ulat_01.png,ulat,0.37410736083984375,2
+output/03_rekonstruksi/ulat/IMG_20261114_065906_ulat_01.png,output/02_mask/ulat/IMG_20261114_065906_ulat_01.png,ulat,0.40703582763671875,2
+output/03_rekonstruksi/ulat/IMG_20261114_065949_ulat_01.png,output/02_mask/ulat/IMG_20261114_065949_ulat_01.png,ulat,0.3044853210449219,2
+output/03_rekonstruksi/ulat/IMG_20261114_070224_ulat_01.png,output/02_mask/ulat/IMG_20261114_070224_ulat_01.png,ulat,0.5375823974609375,2
+output/03_rekonstruksi/ulat/IMG_20261114_070243_ulat_01.png,output/02_mask/ulat/IMG_20261114_070243_ulat_01.png,ulat,0.34224700927734375,2
+output/03_rekonstruksi/ulat/IMG_20261114_070303_ulat_01.png,output/02_mask/ulat/IMG_20261114_070303_ulat_01.png,ulat,0.3562202453613281,2
+output/03_rekonstruksi/ulat/IMG_20261114_070305_ulat_01.png,output/02_mask/ulat/IMG_20261114_070305_ulat_01.png,ulat,0.3664894104003906,2
+output/03_rekonstruksi/ulat/IMG_20261114_070519_ulat_01.png,output/02_mask/ulat/IMG_20261114_070519_ulat_01.png,ulat,0.26158905029296875,2
+output/03_rekonstruksi/ulat/IMG_20261114_071257_ulat_01.png,output/02_mask/ulat/IMG_20261114_071257_ulat_01.png,ulat,0.283477783203125,2
+output/03_rekonstruksi/ulat/IMG_20261114_071325_ulat_01.png,output/02_mask/ulat/IMG_20261114_071325_ulat_01.png,ulat,0.2898597717285156,2
+output/03_rekonstruksi/ulat/IMG_20261114_071519_ulat_01.png,output/02_mask/ulat/IMG_20261114_071519_ulat_01.png,ulat,0.23111724853515625,2
+output/03_rekonstruksi/ulat/IMG_20261114_071728_ulat_01.png,output/02_mask/ulat/IMG_20261114_071728_ulat_01.png,ulat,0.26922607421875,2
+output/03_rekonstruksi/ulat/IMG_20261114_071746_ulat_01.png,output/02_mask/ulat/IMG_20261114_071746_ulat_01.png,ulat,0.23965072631835938,2
+output/03_rekonstruksi/ulat/IMG_20261114_071821_ulat_01.png,output/02_mask/ulat/IMG_20261114_071821_ulat_01.png,ulat,0.2662200927734375,2
+output/03_rekonstruksi/ulat/IMG_20261114_071850_ulat_01.png,output/02_mask/ulat/IMG_20261114_071850_ulat_01.png,ulat,0.3025856018066406,2
+output/03_rekonstruksi/ulat/IMG_20261114_071953_ulat_01.png,output/02_mask/ulat/IMG_20261114_071953_ulat_01.png,ulat,0.26912689208984375,2
+output/03_rekonstruksi/ulat/IMG_20261114_072009_ulat_01.png,output/02_mask/ulat/IMG_20261114_072009_ulat_01.png,ulat,0.2558174133300781,2
+output/03_rekonstruksi/ulat/IMG_20261114_072101_ulat_01.png,output/02_mask/ulat/IMG_20261114_072101_ulat_01.png,ulat,0.2212066650390625,2
+output/03_rekonstruksi/ulat/larva-1000426_640.png,output/02_mask/ulat/larva-1000426_640.png,ulat,0.7490921020507812,2
+output/03_rekonstruksi/ulat/Sampul_Artikel_Web_2026_27_jpg.png,output/02_mask/ulat/Sampul_Artikel_Web_2026_27_jpg.png,ulat,0.6268081665039062,2
+output/03_rekonstruksi/ulat/Trubus-Edisi-607-Juni-2020-Highrest-90-1-1.png,output/02_mask/ulat/Trubus-Edisi-607-Juni-2020-Highrest-90-1-1.png,ulat,0.46881866455078125,2
+output/03_rekonstruksi/ulat/ulat-grayak.png,output/02_mask/ulat/ulat-grayak.png,ulat,0.2664031982421875,2
+output/03_rekonstruksi/ulat/ulat.png,output/02_mask/ulat/ulat.png,ulat,0.6064796447753906,2
+output/03_rekonstruksi/virus_gemini/IMG_20261108_154034_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_154034_virus_gemini_01.png,virus_gemini,0.25839996337890625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_154118_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_154118_virus_gemini_01.png,virus_gemini,0.3519630432128906,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_154224_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_154224_virus_gemini_01.png,virus_gemini,0.26371002197265625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_154238_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_154238_virus_gemini_01.png,virus_gemini,0.305877685546875,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_154246_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_154246_virus_gemini_01.png,virus_gemini,0.222808837890625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_154313_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_154313_virus_gemini_01.png,virus_gemini,0.11529159545898438,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_154318_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_154318_virus_gemini_01.png,virus_gemini,0.2644615173339844,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_154344_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_154344_virus_gemini_01.png,virus_gemini,0.19888687133789062,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_154406_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_154406_virus_gemini_01.png,virus_gemini,0.1296234130859375,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_154555_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_154555_virus_gemini_01.png,virus_gemini,0.23583221435546875,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_154704_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_154704_virus_gemini_01.png,virus_gemini,0.1757049560546875,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_154838_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_154838_virus_gemini_01.png,virus_gemini,0.23221588134765625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_154849_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_154849_virus_gemini_01.png,virus_gemini,0.14165496826171875,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_155448_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_155448_virus_gemini_01.png,virus_gemini,0.12668228149414062,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_155657_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_155657_virus_gemini_01.png,virus_gemini,0.3938255310058594,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_155806_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_155806_virus_gemini_01.png,virus_gemini,0.5170707702636719,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_155817_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_155817_virus_gemini_01.png,virus_gemini,0.31563568115234375,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_155910_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_155910_virus_gemini_01.png,virus_gemini,0.2926673889160156,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_160121_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_160121_virus_gemini_01.png,virus_gemini,0.3451728820800781,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_160132_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_160132_virus_gemini_01.png,virus_gemini,0.12696075439453125,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_160153_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_160153_virus_gemini_01.png,virus_gemini,0.44828033447265625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_160224_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_160224_virus_gemini_01.png,virus_gemini,0.3841209411621094,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_160229_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_160229_virus_gemini_01.png,virus_gemini,0.4365959167480469,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_160436_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_160436_virus_gemini_01.png,virus_gemini,0.21610260009765625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_160552_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_160552_virus_gemini_01.png,virus_gemini,0.42493438720703125,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_160633_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_160633_virus_gemini_01.png,virus_gemini,0.4169120788574219,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_161255_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_161255_virus_gemini_01.png,virus_gemini,0.4981536865234375,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_161535_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_161535_virus_gemini_01.png,virus_gemini,0.4342193603515625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_161630_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_161630_virus_gemini_01.png,virus_gemini,0.4172401428222656,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_161643_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_161643_virus_gemini_01.png,virus_gemini,0.2767181396484375,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_161801_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_161801_virus_gemini_01.png,virus_gemini,0.4263572692871094,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162323_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162323_virus_gemini_01.png,virus_gemini,0.37297821044921875,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162329_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162329_virus_gemini_01.png,virus_gemini,0.48612213134765625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162333_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162333_virus_gemini_01.png,virus_gemini,0.38414764404296875,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162345_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162345_virus_gemini_01.png,virus_gemini,0.22491455078125,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162351_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162351_virus_gemini_01.png,virus_gemini,0.3806419372558594,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162357_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162357_virus_gemini_01.png,virus_gemini,0.33679962158203125,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162402_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162402_virus_gemini_01.png,virus_gemini,0.3073463439941406,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162416_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162416_virus_gemini_01.png,virus_gemini,0.282470703125,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162422_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162422_virus_gemini_01.png,virus_gemini,0.4181556701660156,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162431_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162431_virus_gemini_01.png,virus_gemini,0.20795440673828125,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162435_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162435_virus_gemini_01.png,virus_gemini,0.14980697631835938,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162439_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162439_virus_gemini_01.png,virus_gemini,0.40250396728515625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162510_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162510_virus_gemini_01.png,virus_gemini,0.41431427001953125,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162655_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162655_virus_gemini_01.png,virus_gemini,0.3472900390625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162713_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162713_virus_gemini_01.png,virus_gemini,0.3673858642578125,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162718_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162718_virus_gemini_01.png,virus_gemini,0.2774543762207031,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162722_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162722_virus_gemini_01.png,virus_gemini,0.21529388427734375,3
+output/03_rekonstruksi/virus_gemini/IMG_20261108_162746_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261108_162746_virus_gemini_01.png,virus_gemini,0.3078765869140625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_065834_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_065834_virus_gemini_01.png,virus_gemini,0.15211868286132812,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_065906_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_065906_virus_gemini_01.png,virus_gemini,0.28850555419921875,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_065917_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_065917_virus_gemini_01.png,virus_gemini,0.1959991455078125,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_065932_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_065932_virus_gemini_01.png,virus_gemini,0.3300323486328125,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_065937_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_065937_virus_gemini_01.png,virus_gemini,0.22731399536132812,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070030_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070030_virus_gemini_01.png,virus_gemini,0.22478866577148438,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070037_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070037_virus_gemini_01.png,virus_gemini,0.27051544189453125,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070115_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070115_virus_gemini_01.png,virus_gemini,0.21194839477539062,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070122_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070122_virus_gemini_01.png,virus_gemini,0.2254638671875,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070145_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070145_virus_gemini_01.png,virus_gemini,0.18701553344726562,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070217_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070217_virus_gemini_01.png,virus_gemini,0.2778968811035156,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070230_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070230_virus_gemini_01.png,virus_gemini,0.2065887451171875,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070236_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070236_virus_gemini_01.png,virus_gemini,0.18237686157226562,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070341_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070341_virus_gemini_01.png,virus_gemini,0.2884712219238281,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070426_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070426_virus_gemini_01.png,virus_gemini,0.19737625122070312,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070450_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070450_virus_gemini_01.png,virus_gemini,0.18456268310546875,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070519_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070519_virus_gemini_01.png,virus_gemini,0.26141357421875,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070553_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070553_virus_gemini_01.png,virus_gemini,0.223541259765625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070648_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070648_virus_gemini_01.png,virus_gemini,0.23292160034179688,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_070902_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_070902_virus_gemini_01.png,virus_gemini,0.10385894775390625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_071048_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_071048_virus_gemini_01.png,virus_gemini,0.2584114074707031,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_071239_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_071239_virus_gemini_01.png,virus_gemini,0.2709388732910156,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_071245_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_071245_virus_gemini_01.png,virus_gemini,0.3057518005371094,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_071340_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_071340_virus_gemini_01.png,virus_gemini,0.2668724060058594,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_071412_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_071412_virus_gemini_01.png,virus_gemini,0.23886871337890625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_071434_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_071434_virus_gemini_01.png,virus_gemini,0.18756103515625,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_071613_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_071613_virus_gemini_01.png,virus_gemini,0.3311958312988281,3
+output/03_rekonstruksi/virus_gemini/IMG_20261114_072015_virus_gemini_01.png,output/02_mask/virus_gemini/IMG_20261114_072015_virus_gemini_01.png,virus_gemini,0.16623306274414062,3
+output/03_rekonstruksi/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.16_virus_gemini_01.png,output/02_mask/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.16_virus_gemini_01.png,virus_gemini,0.26650238037109375,3
+output/03_rekonstruksi/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.18_virus_gemini_01.png,output/02_mask/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.18_virus_gemini_01.png,virus_gemini,0.3186149597167969,3
+output/03_rekonstruksi/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.20_virus_gemini_01.png,output/02_mask/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.20_virus_gemini_01.png,virus_gemini,0.09199142456054688,3
+output/03_rekonstruksi/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.21_virus_gemini_01.png,output/02_mask/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.21_virus_gemini_01.png,virus_gemini,0.3301506042480469,3
+output/03_rekonstruksi/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.35_virus_gemini_01.png,output/02_mask/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.35_virus_gemini_01.png,virus_gemini,0.24098968505859375,3
+output/03_rekonstruksi/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.36_virus_gemini_01.png,output/02_mask/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.36_virus_gemini_01.png,virus_gemini,0.2760810852050781,3
+output/03_rekonstruksi/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.37 (1)_virus_gemini_01.png,output/02_mask/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.37 (1)_virus_gemini_01.png,virus_gemini,0.175048828125,3
+output/03_rekonstruksi/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.39 (2)_virus_gemini_01.png,output/02_mask/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.39 (2)_virus_gemini_01.png,virus_gemini,0.2940864562988281,3
+output/03_rekonstruksi/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.39_virus_gemini_01.png,output/02_mask/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.39_virus_gemini_01.png,virus_gemini,0.28035736083984375,3
+output/03_rekonstruksi/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.40 (2)_virus_gemini_01.png,output/02_mask/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.40 (2)_virus_gemini_01.png,virus_gemini,0.300201416015625,3
+output/03_rekonstruksi/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.40 (3)_virus_gemini_01.png,output/02_mask/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.40 (3)_virus_gemini_01.png,virus_gemini,0.24445343017578125,3
+output/03_rekonstruksi/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.41 (1)_virus_gemini_01.png,output/02_mask/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.41 (1)_virus_gemini_01.png,virus_gemini,0.2499847412109375,3
+output/03_rekonstruksi/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.41_virus_gemini_01.png,output/02_mask/virus_gemini/WhatsApp Image 2026-11-08 at 11.07.41_virus_gemini_01.png,virus_gemini,0.21634674072265625,3
