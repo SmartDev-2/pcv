@@ -1,0 +1,279 @@
+{
+  "dibuat": "2026-11-17T20:14:29",
+  "catatan": "Keluaran model adalah alat bantu. Konfirmasi gejala di lapangan dan konsultasikan pengendalian (terutama bahan kimia dan takaran) ke penyuluh/PPL atau pakar; ikuti label produk terdaftar.",
+  "model": {
+    "file": "output/model/svm_final.joblib",
+    "parameter": {
+      "svm__C": "1.0",
+      "svm__gamma": "scale",
+      "svm__kernel": "rbf"
+    },
+    "jumlah_fitur": 22,
+    "kelas": [
+      "bercak_daun",
+      "sehat",
+      "ulat",
+      "virus_gemini"
+    ]
+  },
+  "uji_pipeline": {
+    "konsisten_dengan_fitur_csv": true,
+    "citra_test": 36,
+    "akurasi_test": 0.4722,
+    "macro_f1_test": 0.4519,
+    "kesesuaian_dengan_notebook_06_persen": 100.0
+  },
+  "panduan_per_kelas": {
+    "bercak_daun": {
+      "nama": "Bercak daun",
+      "kemungkinan_penyebab": "Umumnya jamur (mis. Cercospora) atau bakteri; pastikan dengan memeriksa gejala di lapangan.",
+      "tingkat_perhatian": "sedang",
+      "tindakan_segera": [
+        "Petik daun bergejala berat, lalu musnahkan (bakar atau kubur), jangan dikompos",
+        "Hindari membasahi daun; siram pagi hari di pangkal tanaman",
+        "Bersihkan alat dan tangan sebelum berpindah ke tanaman sehat"
+      ],
+      "budidaya": [
+        "Perbaiki drainase dan jarak tanam agar sirkulasi udara baik",
+        "Hindari nitrogen berlebih",
+        "Rotasi dengan tanaman non-Solanaceae",
+        "Bersihkan gulma dan sisa tanaman terserang"
+      ],
+      "hayati": [
+        "Agens hayati (mis. Trichoderma, Bacillus) sebagai pencegahan, sesuai petunjuk produk"
+      ],
+      "kimia": [
+        "Jika serangan meluas, gunakan fungisida (atau bakterisida bila terkonfirmasi bakteri) yang terdaftar untuk cabai",
+        "Rotasi bahan aktif; patuhi dosis, interval, dan masa tunggu panen di label"
+      ],
+      "pemantauan": "Amati perkembangan bercak setiap 2-3 hari; catat jumlah tanaman terserang."
+    },
+    "sehat": {
+      "nama": "Daun sehat",
+      "kemungkinan_penyebab": "Tidak terdeteksi gejala penyakit atau hama pada daun ini.",
+      "tingkat_perhatian": "rendah",
+      "tindakan_segera": [
+        "Tidak perlu pengendalian khusus."
+      ],
+      "budidaya": [
+        "Pemupukan berimbang dan penyiraman teratur",
+        "Jaga sanitasi lahan (gulma, sisa tanaman)",
+        "Pantau tanaman 2-3 kali seminggu, terutama sisi bawah daun"
+      ],
+      "hayati": [
+        "Pertahankan musuh alami; hindari penyemprotan pestisida tanpa kebutuhan"
+      ],
+      "kimia": [
+        "Tidak diperlukan."
+      ],
+      "pemantauan": "Periksa ulang bila muncul bercak, daun menguning/keriting, atau lubang gigitan."
+    },
+    "ulat": {
+      "nama": "Serangan ulat",
+      "kemungkinan_penyebab": "Hama ulat pemakan daun/buah (mis. ulat grayak Spodoptera litura, penggerek Helicoverpa).",
+      "tingkat_perhatian": "sedang",
+      "tindakan_segera": [
+        "Cari dan ambil ulat serta kelompok telur secara manual, lalu musnahkan",
+        "Periksa sisi bawah daun dan sekitar tanaman pada pagi atau sore hari",
+        "Buang bagian tanaman yang terserang berat"
+      ],
+      "budidaya": [
+        "Bersihkan gulma inang",
+        "Olah tanah untuk memutus siklus pupa",
+        "Tanam serempak dan lakukan rotasi tanaman"
+      ],
+      "hayati": [
+        "Perangkap feromon untuk memantau dan menekan ngengat dewasa",
+        "Biopestisida berbahan Bt atau virus NPV sesuai label",
+        "Lindungi musuh alami (laba-laba, parasitoid)"
+      ],
+      "kimia": [
+        "Gunakan insektisida terdaftar hanya jika populasi melewati ambang pengendalian; pilih yang selektif",
+        "Rotasi bahan aktif untuk mencegah resistensi; ikuti label dan anjuran PPL"
+      ],
+      "pemantauan": "Hitung ulat per tanaman pada sampel tanaman tiap 2-3 hari."
+    },
+    "virus_gemini": {
+      "nama": "Virus gemini (kuning keriting)",
+      "kemungkinan_penyebab": "Begomovirus (virus gemini) yang ditularkan kutu kebul (Bemisia tabaci). Tanaman terinfeksi tidak dapat disembuhkan.",
+      "tingkat_perhatian": "tinggi",
+      "tindakan_segera": [
+        "Cabut tanaman bergejala (daun menguning, keriting, kerdil), masukkan kantong, musnahkan; jangan dikompos",
+        "Periksa tanaman di sekitarnya dan kendalikan kutu kebul segera",
+        "Jangan menyentuh tanaman sehat setelah memegang tanaman sakit sebelum membersihkan tangan"
+      ],
+      "budidaya": [
+        "Gunakan bibit sehat dan, bila tersedia, varietas toleran",
+        "Mulsa plastik perak, tanaman pembatas, perangkap kuning",
+        "Bersihkan gulma dan tanaman inang kutu kebul di sekitar lahan"
+      ],
+      "hayati": [
+        "Perangkap perekat kuning untuk memantau dan menekan kutu kebul",
+        "Jamur entomopatogen (mis. Beauveria) dan pelestarian musuh alami sesuai petunjuk produk"
+      ],
+      "kimia": [
+        "Insektisida untuk kutu kebul yang terdaftar pada fase awal, sesuai label dan anjuran PPL; ini mencegah penularan, tidak menyembuhkan tanaman terinfeksi"
+      ],
+      "pemantauan": "Cek tanaman tiap 2-3 hari; catat persentase tanaman bergejala untuk keputusan pencabutan."
+    }
+  },
+  "prediksi_foto_baru": [
+    {
+      "file": "3bad5551776939f8c65ab8bfef36fef0.jpg",
+      "prediksi": "sehat",
+      "margin_keputusan": 1.4392,
+      "rasio_mask": 0.3861,
+      "status_segmentasi": "ok",
+      "keyakinan": "yakin",
+      "rekomendasi": {
+        "nama": "Daun sehat",
+        "kemungkinan_penyebab": "Tidak terdeteksi gejala penyakit atau hama pada daun ini.",
+        "tingkat_perhatian": "rendah",
+        "tindakan_segera": [
+          "Tidak perlu pengendalian khusus."
+        ],
+        "budidaya": [
+          "Pemupukan berimbang dan penyiraman teratur",
+          "Jaga sanitasi lahan (gulma, sisa tanaman)",
+          "Pantau tanaman 2-3 kali seminggu, terutama sisi bawah daun"
+        ],
+        "hayati": [
+          "Pertahankan musuh alami; hindari penyemprotan pestisida tanpa kebutuhan"
+        ],
+        "kimia": [
+          "Tidak diperlukan."
+        ],
+        "pemantauan": "Periksa ulang bila muncul bercak, daun menguning/keriting, atau lubang gigitan."
+      },
+      "gambar_demo": "output/demo_prediksi/baru_3bad5551776939f8c65ab8bfef36fef0.png"
+    },
+    {
+      "file": "images (2).jpg",
+      "prediksi": "virus_gemini",
+      "margin_keputusan": 1.1827,
+      "rasio_mask": 0.6849,
+      "status_segmentasi": "ok",
+      "keyakinan": "yakin",
+      "rekomendasi": {
+        "nama": "Virus gemini (kuning keriting)",
+        "kemungkinan_penyebab": "Begomovirus (virus gemini) yang ditularkan kutu kebul (Bemisia tabaci). Tanaman terinfeksi tidak dapat disembuhkan.",
+        "tingkat_perhatian": "tinggi",
+        "tindakan_segera": [
+          "Cabut tanaman bergejala (daun menguning, keriting, kerdil), masukkan kantong, musnahkan; jangan dikompos",
+          "Periksa tanaman di sekitarnya dan kendalikan kutu kebul segera",
+          "Jangan menyentuh tanaman sehat setelah memegang tanaman sakit sebelum membersihkan tangan"
+        ],
+        "budidaya": [
+          "Gunakan bibit sehat dan, bila tersedia, varietas toleran",
+          "Mulsa plastik perak, tanaman pembatas, perangkap kuning",
+          "Bersihkan gulma dan tanaman inang kutu kebul di sekitar lahan"
+        ],
+        "hayati": [
+          "Perangkap perekat kuning untuk memantau dan menekan kutu kebul",
+          "Jamur entomopatogen (mis. Beauveria) dan pelestarian musuh alami sesuai petunjuk produk"
+        ],
+        "kimia": [
+          "Insektisida untuk kutu kebul yang terdaftar pada fase awal, sesuai label dan anjuran PPL; ini mencegah penularan, tidak menyembuhkan tanaman terinfeksi"
+        ],
+        "pemantauan": "Cek tanaman tiap 2-3 hari; catat persentase tanaman bergejala untuk keputusan pencabutan."
+      },
+      "gambar_demo": "output/demo_prediksi/baru_images (2).png"
+    },
+    {
+      "file": "images (3).jpg",
+      "prediksi": "sehat",
+      "margin_keputusan": 1.0626,
+      "rasio_mask": 0.6627,
+      "status_segmentasi": "ok",
+      "keyakinan": "yakin",
+      "rekomendasi": {
+        "nama": "Daun sehat",
+        "kemungkinan_penyebab": "Tidak terdeteksi gejala penyakit atau hama pada daun ini.",
+        "tingkat_perhatian": "rendah",
+        "tindakan_segera": [
+          "Tidak perlu pengendalian khusus."
+        ],
+        "budidaya": [
+          "Pemupukan berimbang dan penyiraman teratur",
+          "Jaga sanitasi lahan (gulma, sisa tanaman)",
+          "Pantau tanaman 2-3 kali seminggu, terutama sisi bawah daun"
+        ],
+        "hayati": [
+          "Pertahankan musuh alami; hindari penyemprotan pestisida tanpa kebutuhan"
+        ],
+        "kimia": [
+          "Tidak diperlukan."
+        ],
+        "pemantauan": "Periksa ulang bila muncul bercak, daun menguning/keriting, atau lubang gigitan."
+      },
+      "gambar_demo": "output/demo_prediksi/baru_images (3).png"
+    },
+    {
+      "file": "images (4).jpg",
+      "prediksi": "ulat",
+      "margin_keputusan": 1.0204,
+      "rasio_mask": 0.5546,
+      "status_segmentasi": "ok",
+      "keyakinan": "yakin",
+      "rekomendasi": {
+        "nama": "Serangan ulat",
+        "kemungkinan_penyebab": "Hama ulat pemakan daun/buah (mis. ulat grayak Spodoptera litura, penggerek Helicoverpa).",
+        "tingkat_perhatian": "sedang",
+        "tindakan_segera": [
+          "Cari dan ambil ulat serta kelompok telur secara manual, lalu musnahkan",
+          "Periksa sisi bawah daun dan sekitar tanaman pada pagi atau sore hari",
+          "Buang bagian tanaman yang terserang berat"
+        ],
+        "budidaya": [
+          "Bersihkan gulma inang",
+          "Olah tanah untuk memutus siklus pupa",
+          "Tanam serempak dan lakukan rotasi tanaman"
+        ],
+        "hayati": [
+          "Perangkap feromon untuk memantau dan menekan ngengat dewasa",
+          "Biopestisida berbahan Bt atau virus NPV sesuai label",
+          "Lindungi musuh alami (laba-laba, parasitoid)"
+        ],
+        "kimia": [
+          "Gunakan insektisida terdaftar hanya jika populasi melewati ambang pengendalian; pilih yang selektif",
+          "Rotasi bahan aktif untuk mencegah resistensi; ikuti label dan anjuran PPL"
+        ],
+        "pemantauan": "Hitung ulat per tanaman pada sampel tanaman tiap 2-3 hari."
+      },
+      "gambar_demo": "output/demo_prediksi/baru_images (4).png"
+    },
+    {
+      "file": "images (5).jpg",
+      "prediksi": "bercak_daun",
+      "margin_keputusan": 1.3356,
+      "rasio_mask": 0.2772,
+      "status_segmentasi": "ok",
+      "keyakinan": "yakin",
+      "rekomendasi": {
+        "nama": "Bercak daun",
+        "kemungkinan_penyebab": "Umumnya jamur (mis. Cercospora) atau bakteri; pastikan dengan memeriksa gejala di lapangan.",
+        "tingkat_perhatian": "sedang",
+        "tindakan_segera": [
+          "Petik daun bergejala berat, lalu musnahkan (bakar atau kubur), jangan dikompos",
+          "Hindari membasahi daun; siram pagi hari di pangkal tanaman",
+          "Bersihkan alat dan tangan sebelum berpindah ke tanaman sehat"
+        ],
+        "budidaya": [
+          "Perbaiki drainase dan jarak tanam agar sirkulasi udara baik",
+          "Hindari nitrogen berlebih",
+          "Rotasi dengan tanaman non-Solanaceae",
+          "Bersihkan gulma dan sisa tanaman terserang"
+        ],
+        "hayati": [
+          "Agens hayati (mis. Trichoderma, Bacillus) sebagai pencegahan, sesuai petunjuk produk"
+        ],
+        "kimia": [
+          "Jika serangan meluas, gunakan fungisida (atau bakterisida bila terkonfirmasi bakteri) yang terdaftar untuk cabai",
+          "Rotasi bahan aktif; patuhi dosis, interval, dan masa tunggu panen di label"
+        ],
+        "pemantauan": "Amati perkembangan bercak setiap 2-3 hari; catat jumlah tanaman terserang."
+      },
+      "gambar_demo": "output/demo_prediksi/baru_images (5).png"
+    }
+  ]
+}
