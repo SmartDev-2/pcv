@@ -1,0 +1,348 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Length 7214 >>
+stream
+0.030 0.480 0.500 rg 0 833 595 9 re f
+BT /F2 8 Tf 0.030 0.480 0.500 rg 1 0 0 1 48.00 805.00 Tm (LEMBAR PENGUMPULAN DATA) Tj ET
+BT /F2 8 Tf 0.380 0.430 0.490 rg 1 0 0 1 481.72 805.00 Tm (BAB III & BAB IV) Tj ET
+BT /F2 21 Tf 0.100 0.180 0.310 rg 1 0 0 1 48.00 770.00 Tm (Data utama penelitian) Tj ET
+BT /F1 9 Tf 0.380 0.430 0.490 rg 1 0 0 1 48.00 752.00 Tm (Mohon lengkapi angka final yang akan dipakai untuk Bab III dan Bab IV.) Tj ET
+0.030 0.480 0.500 rg 48 717 26 24 re f
+BT /F2 11 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.20 725.00 Tm (1) Tj ET
+BT /F2 12 Tf 0.100 0.180 0.310 rg 1 0 0 1 84.00 725.00 Tm (Distribusi akhir 240 citra per kelas) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 84.00 702.50 Tm (Pastikan jumlah seluruh kelas tepat 240 citra.) Tj ET
+0.100 0.180 0.310 rg 55 669 480 27 re f
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 62.00 680.00 Tm (Kelas) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 297.00 680.00 Tm (Jumlah citra) Tj ET
+0.940 0.970 0.980 rg 55 639 480 30 re f
+0.5 w 0.840 0.870 0.900 RG 55 639 480 30 re S
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 650.75 Tm (Bercak daun) Tj ET
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 297.00 650.75 Tm (________________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 290 669 m 290 639 l S
+1.000 1.000 1.000 rg 55 609 480 30 re f
+0.5 w 0.840 0.870 0.900 RG 55 609 480 30 re S
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 620.75 Tm (Sehat) Tj ET
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 297.00 620.75 Tm (________________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 290 639 m 290 609 l S
+0.940 0.970 0.980 rg 55 579 480 30 re f
+0.5 w 0.840 0.870 0.900 RG 55 579 480 30 re S
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 590.75 Tm (Ulat) Tj ET
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 297.00 590.75 Tm (________________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 290 609 m 290 579 l S
+1.000 1.000 1.000 rg 55 549 480 30 re f
+0.5 w 0.840 0.870 0.900 RG 55 549 480 30 re S
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 560.75 Tm (Virus gemini) Tj ET
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 297.00 560.75 Tm (________________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 290 579 m 290 549 l S
+0.940 0.970 0.980 rg 55 519 480 30 re f
+0.5 w 0.840 0.870 0.900 RG 55 519 480 30 re S
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 530.75 Tm (TOTAL \(target: 240\)) Tj ET
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 297.00 530.75 Tm (________________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 290 549 m 290 519 l S
+0.030 0.480 0.500 rg 48 475 26 24 re f
+BT /F2 11 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.20 483.00 Tm (3) Tj ET
+BT /F2 12 Tf 0.100 0.180 0.310 rg 1 0 0 1 84.00 483.00 Tm (Notebook 05 - pembagian train / val / test) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 84.00 460.50 Tm (Isi jumlah citra untuk setiap kelas pada masing-masing subset.) Tj ET
+0.100 0.180 0.310 rg 55 427 560 27 re f
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 62.00 438.00 Tm (Kelas) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 222.00 438.00 Tm (Train) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 327.00 438.00 Tm (Val) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 432.00 438.00 Tm (Test) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 537.00 438.00 Tm (Total) Tj ET
+0.940 0.970 0.980 rg 55 395 560 32 re f
+0.5 w 0.840 0.870 0.900 RG 55 395 560 32 re S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 408.00 Tm (Bercak daun) Tj ET
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 222.00 408.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 215 427 m 215 395 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 327.00 408.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 320 427 m 320 395 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 432.00 408.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 425 427 m 425 395 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 537.00 408.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 530 427 m 530 395 l S
+1.000 1.000 1.000 rg 55 363 560 32 re f
+0.5 w 0.840 0.870 0.900 RG 55 363 560 32 re S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 376.00 Tm (Sehat) Tj ET
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 222.00 376.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 215 395 m 215 363 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 327.00 376.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 320 395 m 320 363 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 432.00 376.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 425 395 m 425 363 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 537.00 376.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 530 395 m 530 363 l S
+0.940 0.970 0.980 rg 55 331 560 32 re f
+0.5 w 0.840 0.870 0.900 RG 55 331 560 32 re S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 344.00 Tm (Ulat) Tj ET
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 222.00 344.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 215 363 m 215 331 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 327.00 344.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 320 363 m 320 331 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 432.00 344.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 425 363 m 425 331 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 537.00 344.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 530 363 m 530 331 l S
+1.000 1.000 1.000 rg 55 299 560 32 re f
+0.5 w 0.840 0.870 0.900 RG 55 299 560 32 re S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 312.00 Tm (Virus gemini) Tj ET
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 222.00 312.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 215 331 m 215 299 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 327.00 312.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 320 331 m 320 299 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 432.00 312.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 425 331 m 425 299 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 537.00 312.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 530 331 m 530 299 l S
+0.940 0.970 0.980 rg 55 267 560 32 re f
+0.5 w 0.840 0.870 0.900 RG 55 267 560 32 re S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 280.00 Tm (TOTAL) Tj ET
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 222.00 280.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 215 299 m 215 267 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 327.00 280.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 320 299 m 320 267 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 432.00 280.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 425 299 m 425 267 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 537.00 280.00 Tm (________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 530 299 m 530 267 l S
+0.940 0.970 0.980 rg 48 163 499 80 re f
+BT /F2 9 Tf 0.100 0.180 0.310 rg 1 0 0 1 62.00 222.00 Tm (Catatan pemeriksaan) Tj ET
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 203.50 Tm (Jumlah per kelas pada tabel split sebaiknya konsisten dengan distribusi akhir.) Tj ET
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 188.50 Tm (Jika ada citra yang dikeluarkan atau split berubah, tuliskan alasannya:) Tj ET
+0.7 w 0.840 0.870 0.900 RG 62 174 m 530 174 l S
+0.7 w 0.840 0.870 0.900 RG 48 34 m 547 34 l S
+BT /F1 7.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 48.00 17.50 Tm (Isi berdasarkan keluaran notebook/dosen; tulis N/A bila tidak tersedia.) Tj ET
+BT /F2 7.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 527.88 17.50 Tm (1 / 3) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 6304 >>
+stream
+0.030 0.480 0.500 rg 0 833 595 9 re f
+BT /F2 8 Tf 0.030 0.480 0.500 rg 1 0 0 1 48.00 805.00 Tm (LEMBAR PENGUMPULAN DATA) Tj ET
+BT /F2 8 Tf 0.380 0.430 0.490 rg 1 0 0 1 481.72 805.00 Tm (BAB III & BAB IV) Tj ET
+BT /F2 21 Tf 0.100 0.180 0.310 rg 1 0 0 1 48.00 770.00 Tm (Evaluasi model dan uji citra baru) Tj ET
+BT /F1 9 Tf 0.380 0.430 0.490 rg 1 0 0 1 48.00 752.00 Tm (Catat nilai persis seperti yang dilaporkan oleh notebook.) Tj ET
+0.030 0.480 0.500 rg 48 717 26 24 re f
+BT /F2 11 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.20 725.00 Tm (2) Tj ET
+BT /F2 12 Tf 0.100 0.180 0.310 rg 1 0 0 1 84.00 725.00 Tm (Notebook 06 - hasil pelatihan dan evaluasi SVM) Tj ET
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 702.00 Tm (Parameter SVM terpilih \(mis. kernel, C, gamma, class_weight\)) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 55.00 688.50 Tm (Isi di sini) Tj ET
+0.7 w 0.840 0.870 0.900 RG 55 676 m 555 676 l S
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 659.00 Tm (Macro-F1 validasi) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 55.00 645.50 Tm (Isi di sini) Tj ET
+0.7 w 0.840 0.870 0.900 RG 55 633 m 555 633 l S
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 616.00 Tm (Hasil cross-validation 5 lipat) Tj ET
+0.100 0.180 0.310 rg 55 583 540 27 re f
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 62.00 594.00 Tm (Metrik) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 152.00 594.00 Tm (Fold 1) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 242.00 594.00 Tm (Fold 2) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 332.00 594.00 Tm (Fold 3) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 422.00 594.00 Tm (Fold 4) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 512.00 594.00 Tm (Fold 5) Tj ET
+0.940 0.970 0.980 rg 55 553 540 30 re f
+0.5 w 0.840 0.870 0.900 RG 55 553 540 30 re S
+BT /F1 7.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 565.25 Tm (Macro-F1) Tj ET
+BT /F1 7.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 152.00 565.25 Tm (______) Tj ET
+0.7 w 0.840 0.870 0.900 RG 145 583 m 145 553 l S
+BT /F1 7.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 242.00 565.25 Tm (______) Tj ET
+0.7 w 0.840 0.870 0.900 RG 235 583 m 235 553 l S
+BT /F1 7.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 332.00 565.25 Tm (______) Tj ET
+0.7 w 0.840 0.870 0.900 RG 325 583 m 325 553 l S
+BT /F1 7.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 422.00 565.25 Tm (______) Tj ET
+0.7 w 0.840 0.870 0.900 RG 415 583 m 415 553 l S
+BT /F1 7.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 512.00 565.25 Tm (______) Tj ET
+0.7 w 0.840 0.870 0.900 RG 505 583 m 505 553 l S
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 536.00 Tm (Rata-rata dan standar deviasi CV \(jika dilaporkan\)) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 55.00 522.50 Tm (Mean: ____________________     Std: ____________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 55 510 m 555 510 l S
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 493.00 Tm (Akurasi data test) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 55.00 479.50 Tm (Isi di sini) Tj ET
+0.7 w 0.840 0.870 0.900 RG 55 467 m 555 467 l S
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 450.00 Tm (Macro-F1 data test) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 55.00 436.50 Tm (Isi di sini) Tj ET
+0.7 w 0.840 0.870 0.900 RG 55 424 m 555 424 l S
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 407.00 Tm (Pasangan kelas yang paling sering tertukar \(A -> B\)) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 55.00 393.50 Tm (Isi di sini) Tj ET
+0.7 w 0.840 0.870 0.900 RG 55 381 m 555 381 l S
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 364.00 Tm (Ablasi fitur - macro-F1) Tj ET
+0.100 0.180 0.310 rg 55 331 500 27 re f
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 62.00 342.00 Tm (Kombinasi fitur) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 362.00 342.00 Tm (Macro-F1) Tj ET
+0.940 0.970 0.980 rg 55 306 500 25 re f
+0.5 w 0.840 0.870 0.900 RG 55 306 500 25 re S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 315.50 Tm (Warna saja) Tj ET
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 362.00 315.50 Tm (____________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 355 331 m 355 306 l S
+1.000 1.000 1.000 rg 55 281 500 25 re f
+0.5 w 0.840 0.870 0.900 RG 55 281 500 25 re S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 290.50 Tm (GLCM saja) Tj ET
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 362.00 290.50 Tm (____________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 355 306 m 355 281 l S
+0.940 0.970 0.980 rg 55 256 500 25 re f
+0.5 w 0.840 0.870 0.900 RG 55 256 500 25 re S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 265.50 Tm (Warna + GLCM) Tj ET
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 362.00 265.50 Tm (____________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 355 281 m 355 256 l S
+1.000 1.000 1.000 rg 55 231 500 25 re f
+0.5 w 0.840 0.870 0.900 RG 55 231 500 25 re S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 240.50 Tm (Warna + GLCM + bentuk) Tj ET
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 362.00 240.50 Tm (____________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 355 256 m 355 231 l S
+0.030 0.480 0.500 rg 48 189 26 24 re f
+BT /F2 11 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.20 197.00 Tm (4) Tj ET
+BT /F2 12 Tf 0.100 0.180 0.310 rg 1 0 0 1 84.00 197.00 Tm (Notebook 07 - konsistensi dan prediksi foto baru) Tj ET
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 174.00 Tm (Cek konsistensi:  [ ] Lolos   [ ] Tidak lolos) Tj ET
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 154.00 Tm (Hasil / catatan cek konsistensi) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 55.00 140.50 Tm (Ringkas hasil atau temuan yang perlu dicatat.) Tj ET
+0.7 w 0.840 0.870 0.900 RG 55 128 m 555 128 l S
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 111.00 Tm (Prediksi foto baru) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 55.00 97.50 Tm (Nama file/foto: ____________________   Prediksi kelas: ____________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 55 85 m 555 85 l S
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 68.00 Tm (Catatan hasil prediksi \(bila ada\)) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 55.00 54.50 Tm (Contoh: confidence atau keterangan keluaran notebook.) Tj ET
+0.7 w 0.840 0.870 0.900 RG 55 42 m 555 42 l S
+0.7 w 0.840 0.870 0.900 RG 48 34 m 547 34 l S
+BT /F1 7.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 48.00 17.50 Tm (Isi berdasarkan keluaran notebook/dosen; tulis N/A bila tidak tersedia.) Tj ET
+BT /F2 7.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 527.88 17.50 Tm (2 / 3) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 6380 >>
+stream
+0.030 0.480 0.500 rg 0 833 595 9 re f
+BT /F2 8 Tf 0.030 0.480 0.500 rg 1 0 0 1 48.00 805.00 Tm (LEMBAR PENGUMPULAN DATA) Tj ET
+BT /F2 8 Tf 0.380 0.430 0.490 rg 1 0 0 1 481.72 805.00 Tm (BAB III & BAB IV) Tj ET
+BT /F2 21 Tf 0.100 0.180 0.310 rg 1 0 0 1 48.00 770.00 Tm (Data pendukung dan konfirmasi) Tj ET
+BT /F1 9 Tf 0.380 0.430 0.490 rg 1 0 0 1 48.00 752.00 Tm (Bagian ini membantu menjelaskan metodologi Bab III dan konteks hasil.) Tj ET
+0.030 0.480 0.500 rg 48 717 26 24 re f
+BT /F2 11 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.20 725.00 Tm (5) Tj ET
+BT /F2 12 Tf 0.100 0.180 0.310 rg 1 0 0 1 84.00 725.00 Tm (Notebook 01 - perbandingan HE dan CLAHE) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 84.00 702.50 Tm (Masukkan angka hasil perbandingan; jelaskan satuan/metrik bila diperlukan.) Tj ET
+0.100 0.180 0.310 rg 55 669 490 27 re f
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 62.00 680.00 Tm (Metrik) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 252.00 680.00 Tm (HE) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 402.00 680.00 Tm (CLAHE) Tj ET
+0.940 0.970 0.980 rg 55 638 490 31 re f
+0.5 w 0.840 0.870 0.900 RG 55 638 490 31 re S
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 650.25 Tm (Mean) Tj ET
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 252.00 650.25 Tm (________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 245 669 m 245 638 l S
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 402.00 650.25 Tm (________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 395 669 m 395 638 l S
+1.000 1.000 1.000 rg 55 607 490 31 re f
+0.5 w 0.840 0.870 0.900 RG 55 607 490 31 re S
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 619.25 Tm (Std) Tj ET
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 252.00 619.25 Tm (________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 245 638 m 245 607 l S
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 402.00 619.25 Tm (________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 395 638 m 395 607 l S
+0.940 0.970 0.980 rg 55 576 490 31 re f
+0.5 w 0.840 0.870 0.900 RG 55 576 490 31 re S
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 588.25 Tm (Entropi kanal L) Tj ET
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 252.00 588.25 Tm (________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 245 607 m 245 576 l S
+BT /F1 8.5 Tf 0.150 0.190 0.250 rg 1 0 0 1 402.00 588.25 Tm (________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 395 607 m 395 576 l S
+0.030 0.480 0.500 rg 48 532 26 24 re f
+BT /F2 11 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.20 540.00 Tm (6) Tj ET
+BT /F2 12 Tf 0.100 0.180 0.310 rg 1 0 0 1 84.00 540.00 Tm (Notebook 02 - mask yang mencurigakan) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 84.00 517.50 Tm (Jumlah mask mencurigakan, terutama pada kelas bercak daun.) Tj ET
+0.100 0.180 0.310 rg 55 484 490 27 re f
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 62.00 495.00 Tm (Kelas) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 287.00 495.00 Tm (Jumlah mask) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 1 0 0 1 412.00 495.00 Tm (Catatan) Tj ET
+0.940 0.970 0.980 rg 55 455 490 29 re f
+0.5 w 0.840 0.870 0.900 RG 55 455 490 29 re S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 466.50 Tm (Bercak daun) Tj ET
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 287.00 466.50 Tm (__________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 280 484 m 280 455 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 412.00 466.50 Tm (________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 405 484 m 405 455 l S
+1.000 1.000 1.000 rg 55 426 490 29 re f
+0.5 w 0.840 0.870 0.900 RG 55 426 490 29 re S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 437.50 Tm (Sehat) Tj ET
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 287.00 437.50 Tm (__________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 280 455 m 280 426 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 412.00 437.50 Tm (________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 405 455 m 405 426 l S
+0.940 0.970 0.980 rg 55 397 490 29 re f
+0.5 w 0.840 0.870 0.900 RG 55 397 490 29 re S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 408.50 Tm (Ulat) Tj ET
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 287.00 408.50 Tm (__________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 280 426 m 280 397 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 412.00 408.50 Tm (________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 405 426 m 405 397 l S
+1.000 1.000 1.000 rg 55 368 490 29 re f
+0.5 w 0.840 0.870 0.900 RG 55 368 490 29 re S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 62.00 379.50 Tm (Virus gemini) Tj ET
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 287.00 379.50 Tm (__________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 280 397 m 280 368 l S
+BT /F1 8 Tf 0.150 0.190 0.250 rg 1 0 0 1 412.00 379.50 Tm (________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 405 397 m 405 368 l S
+0.030 0.480 0.500 rg 48 325 26 24 re f
+BT /F2 11 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.20 333.00 Tm (7) Tj ET
+BT /F2 12 Tf 0.100 0.180 0.310 rg 1 0 0 1 84.00 333.00 Tm (Jawaban dosen untuk penjelasan bagian 3.2) Tj ET
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 310.00 Tm (Bitwise_and / imfill - arahan atau keputusan dosen) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 55.00 296.50 Tm (Tuliskan jawaban dosen, atau 'belum dijawab'.) Tj ET
+0.7 w 0.840 0.870 0.900 RG 55 284 m 555 284 l S
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 267.00 Tm (Sobel - arahan atau keputusan dosen) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 55.00 253.50 Tm (Tuliskan jawaban dosen, atau 'belum dijawab'.) Tj ET
+0.7 w 0.840 0.870 0.900 RG 55 241 m 555 241 l S
+0.030 0.480 0.500 rg 48 207 26 24 re f
+BT /F2 11 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.20 215.00 Tm (8) Tj ET
+BT /F2 12 Tf 0.100 0.180 0.310 rg 1 0 0 1 84.00 215.00 Tm (Pilihan Duriat yang masih tertunda) Tj ET
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 192.00 Tm ([ ] A - Pakai link repository     [ ] B - Tanpa link) Tj ET
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 173.00 Tm (Link repository \(isi bila memilih A\)) Tj ET
+BT /F1 8.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 55.00 159.50 Tm (________________________________________________________________) Tj ET
+0.7 w 0.840 0.870 0.900 RG 55 147 m 555 147 l S
+BT /F2 9 Tf 0.150 0.190 0.250 rg 1 0 0 1 55.00 130.00 Tm (Catatan tambahan / tanggal konfirmasi:) Tj ET
+0.7 w 0.840 0.870 0.900 RG 55 107 m 540 107 l S
+0.7 w 0.840 0.870 0.900 RG 48 34 m 547 34 l S
+BT /F1 7.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 48.00 17.50 Tm (Isi berdasarkan keluaran notebook/dosen; tulis N/A bila tidak tersedia.) Tj ET
+BT /F2 7.5 Tf 0.380 0.430 0.490 rg 1 0 0 1 527.88 17.50 Tm (3 / 3) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+endobj
+10 0 obj
+<< /Type /Catalog /Pages 9 0 R >>
+endobj
+11 0 obj
+<< /Title (Data yang Dibutuhkan untuk Bab III dan Bab IV) /Author (Lembar pengumpulan data) /Subject (Hasil notebook dan konfirmasi metodologi) >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000000160 00000 n 
+0000007426 00000 n 
+0000007562 00000 n 
+0000013918 00000 n 
+0000014054 00000 n 
+0000020486 00000 n 
+0000020622 00000 n 
+0000020691 00000 n 
+0000020741 00000 n 
+trailer
+<< /Size 12 /Root 10 0 R /Info 11 0 R >>
+startxref
+20904
+%%EOF
